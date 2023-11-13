@@ -99,8 +99,8 @@ int print_non_printable(va_list types, char buffer[],
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
  * @width: get width
- * @precision: Precision specification
- * @size: Size specifier
+ * @precision: Precision specifier
+ * @size: Size specification
  * Return: Numbers of chars printed
  */
 
