@@ -8,8 +8,8 @@
  * @buffer: Buffer array to handle print.
  * @flags: Calculates active flags
  * @width: get width.
- * @precision: Specifies precision
- * @size: Specifies size
+ * @precision: Precision specifier
+ * @size: Size specifier
  * Return: 1 or 2;
  */
 int handle_print(const char *fmt, int *ind, va_list list, char buffer[],
